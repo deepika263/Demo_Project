@@ -1,1 +1,1 @@
-# Mini_Project
+# Inventory Management Project
